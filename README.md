@@ -1,4 +1,4 @@
-# <Refactor for Accessibility>
+# Refactor for Accessibility
 
 ## Description
 
